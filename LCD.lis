@@ -1,0 +1,14 @@
+
+	            G L O B A L   R E F E R E N C E S
+
+	             Name               Value        Type
+	==============================|=======|===============
+	SP_INICIAL                       FDFF         CONSTANT
+	DISPLAY1                         FFF0         CONSTANT
+	DISPLAY2                         FFF1         CONSTANT
+	DISPLAY3                         FFF2         CONSTANT
+	DISPLAY4                         FFF3         CONSTANT
+	LED_ADD                          FFF8         CONSTANT
+	Nivel                            8000         VARIABLE
+	fim                              0005            LABEL
+	acendeleds                       0006            LABEL
